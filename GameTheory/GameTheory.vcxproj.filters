@@ -18,6 +18,30 @@
     <ClCompile Include="GameTheory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AlwaysCooperate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlwaysBetray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TitForTat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resentful.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tournament.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pavlov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prober.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IStrategy.h">
@@ -30,6 +54,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Tournament.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlwaysCooperate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlwaysBetray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TitForTat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resentful.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomStrategy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pavlov.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prober.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

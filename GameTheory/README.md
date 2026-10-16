@@ -7,7 +7,10 @@ In this exercise, you will implement a simulation of the **Iterated Prisoner’s
 In this dilemma, two players repeatedly choose between two actions:
 - Cooperate
 - Betray
+- 
 Each match consists of exactly 50 rounds. Both players choose their action without knowing the opponent's action for the current round. They may use the history of previous rounds to make their decision. The following table defines the points awarded at each round:
+
+
 | **Player A** | **Player B** | **Point A**  | **Point B** |
 |:---|:---|:---:|:---:|
 | Cooperate | Cooperate | 3 | 3 |
