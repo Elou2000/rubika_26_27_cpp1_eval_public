@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Tournament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\TitForTat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:TitForTat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\RandomStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:RandomStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Pavlov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Pavlov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Prober.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Prober.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Prober.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Prober.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\Questions\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Pavlov.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,28 +38,8 @@
       "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:RandomStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\RandomStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:RandomStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Prober.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Prober.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Pavlov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Pavlov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Tournament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:Tournament.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\TitForTat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|solutionrelative:TitForTat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78EA5501-CF5F-4DF1-A0B8-706D8AE5643A}|GameTheory.vcxproj|C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\IStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,11 +65,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Pavlov.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Pavlov.h",
               "RelativeDocumentMoniker": "Pavlov.h",
@@ -75,12 +78,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-16T14:08:19.577Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\Questions\\README.md",
+              "RelativeDocumentMoniker": "..\\Questions\\README.md",
+              "ToolTip": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\Questions\\README.md",
+              "RelativeToolTip": "..\\Questions\\README.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-16T14:58:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Prober.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Prober.cpp",
               "RelativeDocumentMoniker": "Prober.cpp",
@@ -88,8 +102,7 @@
               "RelativeToolTip": "Prober.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-16T14:14:32.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:14:32.77Z"
             },
             {
               "$type": "Document",
@@ -105,19 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "TitForTat.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\TitForTat.cpp",
               "RelativeDocumentMoniker": "TitForTat.cpp",
               "ToolTip": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\TitForTat.cpp",
               "RelativeToolTip": "TitForTat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-16T14:09:49.27Z"
+              "WhenOpened": "2026-10-16T14:09:49.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Pavlov.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Pavlov.cpp",
               "RelativeDocumentMoniker": "Pavlov.cpp",
@@ -129,19 +143,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RandomStrategy.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\RandomStrategy.cpp",
               "RelativeDocumentMoniker": "RandomStrategy.cpp",
               "ToolTip": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\RandomStrategy.cpp",
               "RelativeToolTip": "RandomStrategy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-16T14:05:19.586Z"
+              "WhenOpened": "2026-10-16T14:05:19.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "RandomStrategy.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\RandomStrategy.h",
               "RelativeDocumentMoniker": "RandomStrategy.h",
@@ -149,12 +164,11 @@
               "RelativeToolTip": "RandomStrategy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-16T14:04:49.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:04:49.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IStrategy.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\IStrategy.h",
               "RelativeDocumentMoniker": "IStrategy.h",
@@ -166,19 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Tournament.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.cpp",
               "RelativeDocumentMoniker": "Tournament.cpp",
               "ToolTip": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.cpp",
               "RelativeToolTip": "Tournament.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-16T12:52:23.641Z"
+              "WhenOpened": "2026-10-16T12:52:23.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Tournament.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Tournament.h",
               "RelativeDocumentMoniker": "Tournament.h",
@@ -190,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Ranking.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Ranking.h",
               "RelativeDocumentMoniker": "Ranking.h",
@@ -202,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Choice.h",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\Choice.h",
               "RelativeDocumentMoniker": "Choice.h",
@@ -214,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GameTheory.cpp",
               "DocumentMoniker": "C:\\Users\\e.betremieux\\Documents\\GitHub\\rubika_26_27_cpp1_eval_public\\GameTheory\\GameTheory.cpp",
               "RelativeDocumentMoniker": "GameTheory.cpp",

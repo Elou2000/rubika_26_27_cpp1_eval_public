@@ -14,6 +14,7 @@
 class Tournament
 {
 public:
+	~Tournament();
 	void PopulateStrategy();
 
 	void Simulate();

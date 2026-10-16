@@ -12,6 +12,6 @@ public:
 	IStrategy(const std::string& name) : Name(name) {}
 
 	virtual Choice Decide(const std::vector<Choice>& previousDecisions, const std::vector<Choice>& opponentPreviousDecisions) = 0;
-
+	virtual ~IStrategy() = default;
 	std::string Name;
 };

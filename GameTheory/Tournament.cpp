@@ -1,6 +1,14 @@
 #include "Tournament.h"
 #include <algorithm>
 
+Tournament::~Tournament()
+{
+	for (auto strategy : Strategies)
+	{
+		delete strategy;
+	}
+}
+
 void Tournament::PopulateStrategy()
 {
 	Strategies.push_back(new AlwaysCooperate("Always Cooperate"));
@@ -26,6 +34,7 @@ void Tournament::Simulate()
 	{
 		for (int j = i; j < Strategies.size(); j++)
 		{
+			if (i == j) continue; 
 			IStrategy* p1 = Strategies[i];
 			IStrategy* p2 = Strategies[j];
 
@@ -34,13 +43,6 @@ void Tournament::Simulate()
 			player2PreviousDecisions.clear();
 
 			for (int round = 0; round < 50; round++) ManageMatch(p1, p2);
-
-			if (i == j)
-			{
-				ranking[p1].TotalPoint += currentMatchScore[p1] / 2; //So it doen't get double stat
-				ranking[p1].Draw++;
-				continue;
-			}
 
 			int s1 = currentMatchScore[p1];
 			int s2 = currentMatchScore[p2];
@@ -75,7 +77,7 @@ std::vector<Ranking> Tournament::GenerateFinalRankingByPoint() const
 			if (r1.TotalPoint != r2.TotalPoint) return r1.TotalPoint > r2.TotalPoint;
 			if (r1.Win != r2.Win) return r1.Win > r2.Win;
 			if (r1.Draw != r2.Draw) return r1.Draw > r2.Draw;
-			return r1.Lose > r2.Lose;
+			return r1.Lose < r2.Lose;
 		});
 
 	return r;
@@ -89,7 +91,7 @@ std::vector<Ranking> Tournament::GenerateFinalRankingByWinDrawLoss() const
 		{
 			if (r1.Win != r2.Win)  return r1.Win > r2.Win;
 			if (r1.Draw != r2.Draw) return r1.Draw > r2.Draw;
-			return r1.Lose > r2.Lose;
+			return r1.Lose < r2.Lose;
 		});
 
 	return r;
@@ -108,7 +110,7 @@ std::vector<Ranking> Tournament::CollectRankings() const
 void Tournament::ManageMatch(IStrategy* player1, IStrategy* player2)
 {
 	Choice P1Choice = player1->Decide(player1PreviousDecisions, player2PreviousDecisions);
-	Choice P2Choice = player2->Decide(player1PreviousDecisions, player2PreviousDecisions);
+	Choice P2Choice = player2->Decide(player2PreviousDecisions, player1PreviousDecisions);
 
 	player1PreviousDecisions.push_back(P1Choice);
 	player2PreviousDecisions.push_back(P2Choice);
